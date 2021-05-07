@@ -1,0 +1,4 @@
+Datos registrados
+-----------------
+Nombre y Apellido......: dsafa dsadsa
+Género.................: Femenino
